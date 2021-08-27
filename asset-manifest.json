@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "/testreact/static/js/main.cc89c068.chunk.js",
+    "main.js.map": "/testreact/static/js/main.cc89c068.chunk.js.map",
+    "runtime-main.js": "/testreact/static/js/runtime-main.54a9ab06.js",
+    "runtime-main.js.map": "/testreact/static/js/runtime-main.54a9ab06.js.map",
+    "static/js/2.01caab4e.chunk.js": "/testreact/static/js/2.01caab4e.chunk.js",
+    "static/js/2.01caab4e.chunk.js.map": "/testreact/static/js/2.01caab4e.chunk.js.map",
+    "index.html": "/testreact/index.html",
+    "static/js/2.01caab4e.chunk.js.LICENSE.txt": "/testreact/static/js/2.01caab4e.chunk.js.LICENSE.txt",
+    "static/media/default.2e01288c.jpg": "/testreact/static/media/default.2e01288c.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.54a9ab06.js",
+    "static/js/2.01caab4e.chunk.js",
+    "static/js/main.cc89c068.chunk.js"
+  ]
+}
